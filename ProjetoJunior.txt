@@ -1,0 +1,3 @@
+Eirik Henrique Schmidt Nunes  Ra: 50505	
+Tema: Web Vendas
+Descrição: Add e remove itens do sistema, adiciona a compra ao carrinho e faz a soma do valor das compras feitas
